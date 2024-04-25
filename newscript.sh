@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "I`m Max Ostafiichuk"
+
+
+echo "Max Ostafiichuk, Hi."
