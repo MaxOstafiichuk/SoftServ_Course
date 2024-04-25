@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "This is just a ls command!"
-ls -l
-echo "Completed!"
+echo "I`m Max Ostafiichuk"
